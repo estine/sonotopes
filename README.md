@@ -21,5 +21,9 @@ Extensions of Eli Stine's 2019 dissertation, [*Modeling Natural Systems in Immer
 ## Current Tasks
 
 #### Series 1
-- [ ] Finalize Spolia
-- [ ] Documentation + Installer for IRidesce, Polytide, and Vitriform
+- [ ] Put actual plugins under VC (private subrepo)
+- [ ] Test and bug hunt all plug-ins
+- [ ] HD screenshots of GUIs + Short Video Demos
+- [ ] Video demos + walkthroughs of all plugins
+- [ ] Documentation + Installer for all plug-ins
+- [ ] Release on Patreon
