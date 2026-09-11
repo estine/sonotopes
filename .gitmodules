@@ -1,0 +1,3 @@
+[submodule "sonotopes_source"]
+	path = sonotopes_source
+	url = https://github.com/estine/sonotopes_source
