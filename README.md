@@ -21,18 +21,19 @@ Extensions of Eli Stine's 2019 dissertation, [*Modeling Natural Systems in Immer
 ## Current Tasks
 
 - [x] Put actual plugins under VC (private subrepo)
-Sonotopes TODO:
-Vitriform - last looks, hear in ambi
-Polytide - rebrand as crickets/cicadas? Nah. Last looks
-IRidesce - last looks, hear in ambi
 
-Spolia - finalize just the Roles, get them to have true identity, hear in ambi
+- #### Sonotopes TODO:
+- [ ] Vitriform - last looks, hear in ambi
+- [ ] Polytide - rebrand as crickets/cicadas? Nah. Last looks
+- [ ] IRidesce - last looks, hear in ambi
 
-All Field - add ESMW logo at top right
-Field Contrast - GUI a bit of work, hide native controls, last looks
-Field Dynamic EQ - nice GUI, hide native controls
-Field Resynth - nice GUI, hear in ambi, reduce parameter set a LOT
-Field Orchestrator - test on diverse recordings (I bet need more sensitivity), test with sampled instruments, nice GUI
+- [ ] Spolia - finalize just the Roles, get them to have true identity, hear in ambi
+
+- [ ] All Field - add ESMW logo at top right
+- [ ] Field Contrast - GUI a bit of work, hide native controls, last looks
+- [ ] Field Dynamic EQ - nice GUI, hide native controls
+- [ ] Field Resynth - nice GUI, hear in ambi, reduce parameter set a LOT
+- [ ] Field Orchestrator - test on diverse recordings (I bet need more sensitivity), test with sampled instruments, nice GUI
 
 - [ ] Test and bug hunt all plug-ins
 - [ ] HD screenshots of GUIs + Short Video Demos
