@@ -22,15 +22,15 @@ Extensions of Eli Stine's 2019 dissertation, [*Modeling Natural Systems in Immer
 ## Plug-ins
 
 - ### Crystal Wave Series
-- #### IRidesce - Prismatic Stereo-IR Ambisonic Reverb
-- #### Polytide - Ebb & Flow Note Generator
-- #### Vitriform -  Bowed Glass Orrery
-- #### Recolalia -  Gesture Recombination Engine
+- - #### IRidesce - Prismatic Stereo-IR Ambisonic Reverb
+- - #### Polytide - Ebb & Flow Note Generator
+- - #### Vitriform -  Bowed Glass Orrery
+- - #### Recolalia -  Gesture Recombination Engine
 - ### Field Series
-- #### Field Contrast - Spatially Adaptive Dynamics Processor
-- #### Field Dynamic EQ - Spatially Adaptive Dynamic Equalization
-- #### Field Resynth - Ambisonic Field Resynthesis
-- #### Field Orchestrator - Auditory Scene Transcription
+- - #### Field Contrast - Spatially Adaptive Dynamics Processor
+- - #### Field Dynamic EQ - Spatially Adaptive Dynamic Equalization
+- - #### Field Resynth - Ambisonic Field Resynthesis
+- - #### Field Orchestrator - Auditory Scene Transcription
 
 
 ## Installation
